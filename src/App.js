@@ -11,7 +11,7 @@ function App() {
       <header className="App-header">
         <h1>
           <Countdown 
-            date={"May 25, 2019 12:00:00"} 
+            date={"May 23, 2020 12:00:00"} 
             renderer={renderer}/>
         </h1>
         <img src={logo} alt="logo" />
